@@ -1,7 +1,6 @@
 # 👋 Olá, sou Caio Almeida  
 **Analista de Dados | Power BI • Python • AWS • Pipelines ETL**  
-Rondonópolis, MT • 
-- [caio-henrique@outlook.com](mailto:caio-henrique@outlook.com)  
+Rondonópolis, MT  
 - [linkedin.com/in/hrcaio](https://www.linkedin.com/in/hrcaio)
 
 ---
