@@ -1,7 +1,8 @@
 # 👋 Olá, sou Caio Almeida  
 **Analista de Dados | Power BI • Python • AWS • Pipelines ETL**  
-Rondonópolis, MT • [(66) 99623-5584](tel:+5566996235584) • [caio-henrique@outlook.com](mailto:caio-henrique@outlook.com)  
-[linkedin.com/in/hrcaio](https://www.linkedin.com/in/hrcaio) • [github.com/ImCaioHenrique](https://github.com/ImCaioHenrique)
+Rondonópolis, MT • 
+- [caio-henrique@outlook.com](mailto:caio-henrique@outlook.com)  
+- [linkedin.com/in/hrcaio](https://www.linkedin.com/in/hrcaio)
 
 ---
 
@@ -36,7 +37,8 @@ Domínio em **SCRUM + Jira**, atuando como ponte entre negócio e tecnologia.
 - Conversão de custos de lançamentos em **BRL** com cache de cotações  
 - Dashboard interativo com Chart.js responsivo  
 
-### [Câmara dos Deputados – Data Lake Simulado](https://github.com/ImCaioHenrique/camara-data-lake)  
+### [Câmara dos Deputados – Data Lake Simulado](https://github.com/ImCaioHenrique/skillup_tiller)  
+
 > **Python • APIs • Medallion Architecture**  
 - Camadas **Bronze → Silver → Gold** (simuladas localmente)  
 - Ingestão de proposições e discursos (2024)  
