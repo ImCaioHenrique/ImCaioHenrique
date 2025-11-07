@@ -7,8 +7,6 @@ Rondonópolis, MT
 
 ## 🚀 Sobre Mim
 **Analista de Dados com +3 anos de experiência** em **Power BI, ETL com Python/Airflow e infraestrutura AWS**.  
-Construo **pipelines automatizados**, limpo e transformo dados com **Pandas/PyArrow**, e entrego **dashboards interativos** que reduzem tempo de análise em até 40%.  
-Domínio em **SCRUM + Jira**, atuando como ponte entre negócio e tecnologia.  
 
 ---
 
