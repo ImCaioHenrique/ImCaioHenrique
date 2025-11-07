@@ -9,7 +9,6 @@ Rondonópolis, MT
 **Analista de Dados com +3 anos de experiência** em **Power BI, ETL com Python/Airflow e infraestrutura AWS**.  
 Construo **pipelines automatizados**, limpo e transformo dados com **Pandas/PyArrow**, e entrego **dashboards interativos** que reduzem tempo de análise em até 40%.  
 Domínio em **SCRUM + Jira**, atuando como ponte entre negócio e tecnologia.  
-**Projetos pessoais avançados** com APIs públicas (OpenWeather, OpenAQ, SpaceX, BACEN, Câmara) — incluindo **Parquet particionado, qualidade de dados e relatórios automáticos**.
 
 ---
 
@@ -17,21 +16,15 @@ Domínio em **SCRUM + Jira**, atuando como ponte entre negócio e tecnologia.
 
 | **BI & Visualização**       | **Engenharia de Dados**               | **Cloud & Infra**           | **Outras**                     |
 |-----------------------------|---------------------------------------|-----------------------------|--------------------------------|
-| Power BI • DAX • Modelagem  | Python • Pandas • PyArrow             | AWS (S3, EC2, EKS, RDS)     | Git • CI/CD • Docker           |
+| Power BI • DAX • Modelagem  | Python • Pandas                       | AWS (S3, EC2, EKS, RDS)     | Git • CI/CD • Docker           |
 | SQL Reports                 | Apache Airflow • ETL/ELT              | Oracle Cloud                | Jira • SCRUM                   |
 |                             | APIs REST • Qualidade de Dados        |                             | Bash • Postman                 |
 
 ---
 
 ## 🔥 Projetos em Destaque
-
-### [DataFlowForge – Clima + Qualidade do Ar](https://github.com/ImCaioHenrique/dataflowforge)  
-> **Python • APIs • Parquet • Airflow**  
-- Ingestão OpenWeatherMap + OpenAQ (SP, RJ, BH)  
-- Persistência em **Parquet particionado (Snappy)**  
-- Relatório automático: nulos, duplicatas, tipos  
-
-### [SpaceX + BACEN Pipeline](https://github.com/ImCaioHenrique/spacex-bacen-pipeline)  
+ 
+### [SpaceX + BACEN Pipeline](https://github.com/ImCaioHenrique/DataFlow)  
 > **Python • Cache • Paralelismo • Dashboard**  
 - Conversão de custos de lançamentos em **BRL** com cache de cotações  
 - Dashboard interativo com Chart.js responsivo  
