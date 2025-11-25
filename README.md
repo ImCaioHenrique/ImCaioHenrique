@@ -1,5 +1,5 @@
 # 👋 Olá, sou Caio Almeida  
-**Analista de Dados | Power BI • Python • AWS • Pipelines ETL**  
+**Engenheiro de Dados | Power BI • Python • AWS • Pipelines ETL**  
 Rondonópolis, MT  
 - [linkedin.com/in/hrcaio](https://www.linkedin.com/in/hrcaio)
 
