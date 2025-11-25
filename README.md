@@ -5,11 +5,6 @@ Rondonópolis, MT
 
 ---
 
-## 🚀 Sobre Mim
-**Analista de Dados com +3 anos de experiência** em **Power BI, ETL com Python/Airflow e infraestrutura AWS**.  
-
----
-
 ## 🛠️ Tech Stack
 
 | **BI & Visualização**       | **Engenharia de Dados**               | **Cloud & Infra**           | **Outras**                     |
